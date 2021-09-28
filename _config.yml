@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Scientist : Seungwon Choi Portfoli"
+title                    : "Seungwon Choi - Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Choi-SeungWon"
+name                     : "Choi_SeungWon"
 description              : "Data Scientist : Seungwon Choi Portfolio"
 url                      : "https://choiswonspec.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
