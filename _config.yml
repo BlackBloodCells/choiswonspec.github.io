@@ -23,10 +23,10 @@ name                     : "Choi_SeungWon"
 description              : "Data Scientist : Seungwon Choi Portfolio"
 url                      : "https://choiswonspec.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "choiswonspec/choiswonspec.github.io"
+repository               : "https://github.com/choiswonspec/choiswonspec.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "정리가 재밌는 개발자"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Seungwon Choi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/2020me.jpg"
   bio              : "Data Scientist."
   location         : "Seoul, Korea"
   email            : "csw31915@naver.com"
@@ -215,7 +215,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 15 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
